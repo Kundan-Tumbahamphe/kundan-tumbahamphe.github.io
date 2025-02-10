@@ -1,0 +1,29 @@
+
+
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "J4T2W4ACYU.com.tixfix.client",
+                "components": [
+                    {
+                        "/": "/activate-account/*",
+                        "?": {
+                            "code": "*"
+                        }
+                    },
+                    {
+                        "/": "/reset-password/*",
+                        "?": {
+                            "code": "*"
+                        }
+                    },
+                    {
+                        "/": "/events/view/*"
+                    }
+                ]
+            }
+        ]
+    }
+}
